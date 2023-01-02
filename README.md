@@ -1,4 +1,10 @@
-# A. Normalisasi Database
+# A. Latar Belakang
+
+Seiring berkembangnya zaman maka bertambah pula kebutuhan teknologi dalam masyarakat, contohnya seperti kebutuhan teknologi untuk mengirimkan uang ke kerabat atau contoh lainnya seperti untuk melakukan jual beli barang / jasa secara online. Oleh karena itu pihak bank menyediakan fitur transfer bank untuk memudahkan masyarakat mengirim uang ke beda wilayah yang jauh maupun yang dekat.
+
+Maka dari itulah kami pun jadi tertarik untuk mengangkat studi kasus Perbankan ini sebagai studi kasus untuk tugas Project Studi Kasus Real ini.
+
+# B. Normalisasi Database
 
 ## 1. Normalisasi Tabel **Nasabah**
 
@@ -115,11 +121,11 @@ Jika dilihat-lihat pada tabel di atas, setiap kolom non-keynya tidak ada yang be
 
 <br>
 
-# B. Skema Database
+# C. Skema Database
 
 ![DB Schema](https://user-images.githubusercontent.com/74972129/210043327-ad24bc07-7091-42c8-9760-54e7b36c3ea4.png)
 
-# C. Implementasi MySQL
+# D. Implementasi MySQL
 
 ### Menyalakan server MySQL
 
@@ -621,3 +627,10 @@ MariaDB [perbankan]> SELECT
 
 MariaDB [perbankan]>
 ```
+
+# E. Kesimpulan
+Berdasarkan laporan yang telah dijabarkan, maka di sini saya dapat menarikbeberapa
+kesimpulan diantaranya:
+- Normalisasi database mencapai tingkat Third Normal Form (3NF).
+- Terdapat 5 tabel yaitu bank, nasabah, rekening, transfer, dan struk.
+- Terdapat 3 user yaitu admin, customer_service, dan teller.
