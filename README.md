@@ -84,7 +84,7 @@ Pada tabel di bawah ini masih berada pada tahap Unnormalized Form (UNF)
 
 <br>
 
-Untuk mengubahnya menjadi First Normal Form (1NF) maka kita harus membuat agar setiap kolom tidak ada yang berulang, sehingga hasilnya menjadi seperti di bawah ini
+Untuk mengubahnya menjadi First Normal Form (1NF) maka kita harus membuat agar setiap kolom tidak ada yang multi value, sehingga hasilnya menjadi seperti di bawah ini
 
 ### **1NF**
 
@@ -506,7 +506,7 @@ MariaDB [perbankan]> SELECT * FROM struk;
 1 row in set (0.007 sec)
 ```
 
-### Melakukan transaksi transfer
+### Melakukan transaksi transfer lagi
 
 ```sql
 MariaDB [perbankan]> SET
