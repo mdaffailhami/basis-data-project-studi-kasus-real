@@ -4,6 +4,9 @@ Seiring berkembangnya zaman maka bertambah pula kebutuhan teknologi dalam masyar
 
 Maka dari itulah kami pun jadi tertarik untuk mengangkat studi kasus Perbankan ini sebagai studi kasus untuk tugas Project Studi Kasus Real ini.
 
+## Bukti Struk dari Studi Kasus **Perbankan**
+![Bukti Struk](https://user-images.githubusercontent.com/74972129/210193213-000e901c-86e0-4789-87bd-81d6a55665df.png)
+
 # B. Tujuan
 Tujuan kenapa kami memilih studi kasus “Perbankan” adalah sebagai berikut:  
 - Menjadikan sarana untuk mengasah logika sebab studi kasusnya bisa dibilang lumayan kompleks.
