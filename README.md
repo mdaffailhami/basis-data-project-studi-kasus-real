@@ -2,13 +2,13 @@
 
 Seiring berkembangnya zaman maka bertambah pula kebutuhan teknologi dalam masyarakat, contohnya seperti kebutuhan teknologi untuk mengirimkan uang ke kerabat atau contoh lainnya seperti untuk melakukan jual beli barang / jasa secara online. Oleh karena itu pihak bank menyediakan fitur transfer bank untuk memudahkan masyarakat mengirim uang ke beda wilayah yang jauh maupun yang dekat.
 
-Maka dari itulah kami pun jadi tertarik untuk mengangkat studi kasus Perbankan ini sebagai studi kasus untuk tugas Project Studi Kasus Real ini.
+Maka dari itulah kami pun jadi tertarik untuk mengangkat studi kasus **Transfer Bank** ini sebagai studi kasus untuk tugas Project Studi Kasus Real ini.
 
-## Bukti Struk dari Studi Kasus **Perbankan**
+## Bukti Struk dari Studi Kasus **Transfer Bank**
 ![Bukti Struk](https://user-images.githubusercontent.com/74972129/210193213-000e901c-86e0-4789-87bd-81d6a55665df.png)
 
 # B. Tujuan
-Tujuan kenapa kami memilih studi kasus “Perbankan” adalah sebagai berikut:  
+Tujuan kenapa kami memilih studi kasus “Transfer Bank” adalah sebagai berikut:  
 - Menjadikan sarana untuk mengasah logika sebab studi kasusnya bisa dibilang lumayan kompleks.
 - Tugas cepat selesai karena sangat relate dengan kasus-kasus di dunia nyata yang pastinya diantara kita pasti pernah melakukan transfer bank.
 
