@@ -4,7 +4,12 @@ Seiring berkembangnya zaman maka bertambah pula kebutuhan teknologi dalam masyar
 
 Maka dari itulah kami pun jadi tertarik untuk mengangkat studi kasus Perbankan ini sebagai studi kasus untuk tugas Project Studi Kasus Real ini.
 
-# B. Normalisasi Database
+# B. Tujuan
+Tujuan kenapa kami memilih studi kasus “Perbankan” adalah sebagai berikut:  
+- Menjadikan sarana untuk mengasah logika sebab studi kasusnya bisa dibilang lumayan kompleks.
+- Tugas cepat selesai karena sangat relate dengan kasus-kasus di dunia nyata yang pastinya diantara kita pasti pernah melakukan transfer bank.
+
+# C. Normalisasi Database
 
 ## 1. Normalisasi Tabel **Nasabah**
 
@@ -121,11 +126,11 @@ Jika dilihat-lihat pada tabel di atas, setiap kolom non-keynya tidak ada yang be
 
 <br>
 
-# C. Skema Database
-
+# D. Entity Relationship
+![ERD](https://user-images.githubusercontent.com/74972129/210193116-d20bcdd6-72dc-4173-9a7c-2facd64ff594.jpg)
 ![DB Schema](https://user-images.githubusercontent.com/74972129/210043327-ad24bc07-7091-42c8-9760-54e7b36c3ea4.png)
 
-# D. Implementasi MySQL
+# E. Implementasi DBMS MySQL
 
 ### Menyalakan server MySQL
 
@@ -628,9 +633,17 @@ MariaDB [perbankan]> SELECT
 MariaDB [perbankan]>
 ```
 
-# E. Kesimpulan
-Berdasarkan laporan yang telah dijabarkan, maka di sini saya dapat menarikbeberapa
-kesimpulan diantaranya:
+# F. Kesimpulan
+Berdasarkan laporan yang telah dijabarkan, maka di sini saya dapat menarikbeberapa kesimpulan diantaranya:  
 - Normalisasi database mencapai tingkat Third Normal Form (3NF).
 - Terdapat 5 tabel yaitu bank, nasabah, rekening, transfer, dan struk.
 - Terdapat 3 user yaitu admin, customer_service, dan teller.
+
+# G. Saran
+Berikut adalah saran sebelum melakukan praktikum studi kasus Transfer Bank:  
+- Pahami terlebih dahulu tentang apa itu database
+- Pelajari apa itu database relational
+- Pelajari bagaimana cara melakukan normalisasi database
+- Pahami fungsi dari ERD dan pelajari bagaimana cara mengimplementasikannya
+- Pelajari bagaimana cara menggunakan database MySQL
+- Pelajari perintah-perintah dasar MySQL seperti CREATE, INSERT, UPDATE, DELETE, SELECT, dll
